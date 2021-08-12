@@ -1,0 +1,12 @@
+tuples
+    Labeled Tuple Elements
+union
+generics 
+    constrained
+    generic parameter defaults
+optional catch clause variable
+anonymous types
+Optional Chaining
+Nullish Coalescing
+Variadic Tuple Types
+Template Literal Types
